@@ -95,5 +95,6 @@ GST: Percentage of GST
 ## 4. 📁 Contents
 
 - `DebasishBhaskar_Ecommerce_Marketing_Analysis.ipynb` – Main Colab notebook
+- GitHub Notebook Link: https://github.com/DebasishBhaskar/ecommerce-marketing-sales-analysis/blob/main/DebasishBhaskar_Ecommerce_Marketing_Analysis.ipynb
 
 
