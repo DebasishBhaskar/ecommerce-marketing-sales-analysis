@@ -17,7 +17,7 @@ This project explores customer behavior, marketing effectiveness, pricing sensit
 - `Customer_Data.csv` (https://github.com/DebasishBhaskar/ecommerce-marketing-sales-analysis/blob/main/Customers_Data.csv)
 - `Discount_Coupon.csv` (https://github.com/DebasishBhaskar/ecommerce-marketing-sales-analysis/blob/main/Discount_Coupon.csv)
 - `Marketing_Spend.csv` (https://github.com/DebasishBhaskar/ecommerce-marketing-sales-analysis/blob/main/Marketing_Spend.csv)
-- `Tax_Amount.csv`
+- `Tax_Amount.csv` (https://github.com/DebasishBhaskar/ecommerce-marketing-sales-analysis/blob/main/Tax_amount.csv)
 
 **Size**: ~10,000 records total  
 **Key Variables**:
