@@ -14,7 +14,7 @@ This project explores customer behavior, marketing effectiveness, pricing sensit
 **Source**: Provided in-course datasets  
 **Files Used**:
 - `Online_Sales.csv`
-- `Customer_Data.csv`
+- `Customer_Data.csv` (https://github.com/DebasishBhaskar/ecommerce-marketing-sales-analysis/blob/main/Customers_Data.csv)
 - `Discount_Coupon.csv`
 - `Marketing_Spend.csv`
 - `Tax_Amount.csv`
